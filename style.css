@@ -14,7 +14,7 @@ body {
    text-align: center; /*menengahkan semua teks di dalam kartu */
 }
 |
- .kartu-profil img { 
+.kartu-profil img { 
    widht: 150px
    border-radius: 50px; /* Trik untuk membuat gambar persegi menjadi lingkaran sempurna */
 }
