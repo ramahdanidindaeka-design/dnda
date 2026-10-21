@@ -8,16 +8,17 @@ body {
    width: 360px;
    margin: 50px auto; /* 50px jarak atas/bawah, auto menengah kiri/kanan */
    padding: 20px;
-   background-color: pink;
+   background-color: white;
    border-radius: 15px; /* membuat sudut menjadi melengkung */
-   box-shadow: 0 4px 8px rgba(0,0,0,1); /* Efek bayangan */
-   text-align: center; /*menengahkan semua teks di dalam kartu */
+   box-shadow: 0 4px 8px rgba(0,0,0,0,1); /* Efek bayangan */
 }
 |
-.kartu-profil img { 
+
+.foto-profil.jpg { 
    widht: 150px
    border-radius: 50px; /* Trik untuk membuat gambar persegi menjadi lingkaran sempurna */
 }
 .kartu-profil {
    /* ... (kode dari slide sebelumnya) ... */
+   text-align: center; /*menengahkan semua teks di dalam kartu */
 }
